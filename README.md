@@ -10,6 +10,8 @@ UI components
 - discussion board
 - leetcode submissions
 - dash board
+- Stats/ predictions
+- motivation quote
   
 Leetcode API
 
