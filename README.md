@@ -11,7 +11,7 @@ UI components
 - leetcode submissions
 - dash board
   
-leetcode API
+Leetcode API
 
 Backend support multi users collaboration
 
