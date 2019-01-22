@@ -12,6 +12,8 @@ UI components
 - dash board
 - Stats/ predictions
 - motivation quote
+- trello-board-like traking progress
+- notes taking for each problem! 
   
 Leetcode API
 
