@@ -15,6 +15,7 @@ UI components
 - trello-board-like tracking progress
 - set timer 
 - notes taking for each problem! 
+- competition - real time, random, time limit 
   
 Leetcode API
 
