@@ -16,6 +16,7 @@ UI components
 - set timer 
 - notes taking for each problem! 
 - competition - real time, random, time limit 
+- ranking feature among friends
   
 Leetcode API
 
