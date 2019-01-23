@@ -13,10 +13,11 @@ UI components
 - Stats/ predictions
 - motivation quote
 - trello-board-like tracking progress
-- set timer 
+- set timer, time stats
 - notes taking for each problem! 
 - competition - real time, random, time limit 
 - ranking feature among friends
+- dark mode
   
 Leetcode API
 
