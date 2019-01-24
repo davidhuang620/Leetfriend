@@ -18,6 +18,8 @@ UI components
 - competition - real time, random, time limit 
 - ranking feature among friends
 - dark mode
+- card display for different topics
+
   
 Leetcode API
 
