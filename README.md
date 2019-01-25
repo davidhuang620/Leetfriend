@@ -1,4 +1,6 @@
-# Leetcode Planner
+# LeetFriend
+
+## Leetcode with friends 
 
 ## A leetcode a day, keeps lowball offers away
 
