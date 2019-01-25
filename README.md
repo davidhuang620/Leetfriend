@@ -1,4 +1,4 @@
-# LeetFriend
+# Leetfriend
 
 ## Leetcode with friends 
 
