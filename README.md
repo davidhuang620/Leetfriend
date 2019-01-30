@@ -21,6 +21,7 @@ UI components
 - ranking feature among friends
 - dark mode
 - card display for different topics
+- leet problem solved count
 
   
 Leetcode API
