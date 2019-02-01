@@ -22,6 +22,7 @@ UI components
 - dark mode
 - card display for different topics
 - leet problem solved count
+- Categlory: Top interview, top liked
 
   
 Leetcode API
