@@ -6,19 +6,28 @@
 
 Features to do: 
 
-UI components
-- sign up/ log in
-- planner
-- discussion board
-- leetcode submissions
-- dash board
+Problem Page
+- leetcode Link
+- discussion Thread
+- display Incomplete/ Complete
+- display Time
+- set timer, time stats
+- notes (Personal/ Public) 
+
+Dash board
 - Stats/ predictions
 - motivation quote
 - trello-board-like tracking progress
-- set timer, time stats
-- notes taking for each problem! 
-- competition - real time, random, time limit 
+
+User
+- sign up/ log in
+
+Duo with Friends 
+- planner
 - ranking feature among friends
+
+Other
+- competition - real time, random, time limit 
 - dark mode
 - card display for different topics
 - leet problem solved count
