@@ -8,11 +8,17 @@ Features to do:
 
 Problem Page
 - leetcode Link
+  - Users manually input 
 - discussion Thread
+  - Anyone able to comment
+- notes 
 - display Incomplete/ Complete
 - display Time
-- set timer, time stats
-- notes (Personal/ Public) 
+- future
+  - leetcode link directly from api
+  - user comment with their own account
+  - set timer, time stats
+  - notes (personal/ public)
 
 Dash board
 - Stats/ predictions
